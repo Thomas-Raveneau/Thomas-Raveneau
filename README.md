@@ -10,10 +10,10 @@ I'm an Epitech student, passionate about video games since my childhood.
 ## Skills
 
 <div style="display: flex">
-  <img src="https://github.dev/Thomas-Raveneau/Thomas-Raveneau/blob/5263ee9a72b5e0afdec0baff801572de7b52ce07/logos/unreal.png" height="50"/>
-  <img src="https://github.dev/Thomas-Raveneau/Thomas-Raveneau/blob/5263ee9a72b5e0afdec0baff801572de7b52ce07/logos/unity.png" height="50"/>
-  <img src="https://github.dev/Thomas-Raveneau/Thomas-Raveneau/blob/5263ee9a72b5e0afdec0baff801572de7b52ce07/logos/godot.png" height="50"/>
-  <img src="https://github.dev/Thomas-Raveneau/Thomas-Raveneau/blob/5263ee9a72b5e0afdec0baff801572de7b52ce07/logos/c.svg" height="50"/>
-  <img src="https://github.dev/Thomas-Raveneau/Thomas-Raveneau/blob/5263ee9a72b5e0afdec0baff801572de7b52ce07/logos/cpp.svg" height="50"/>
-  <img src="https://github.dev/Thomas-Raveneau/Thomas-Raveneau/blob/5263ee9a72b5e0afdec0baff801572de7b52ce07/logos/c#svg.svg" height="50"/>
+  <img src="https://github.com/Thomas-Raveneau/Thomas-Raveneau/blob/0a9c776fb31788d5e691268b8f160d6ea7b34c30/logos/unreal.png" height="50"/>
+  <img src="https://github.com/Thomas-Raveneau/Thomas-Raveneau/blob/0a9c776fb31788d5e691268b8f160d6ea7b34c30/logos/unity.png" height="50"/>
+  <img src="https://github.com/Thomas-Raveneau/Thomas-Raveneau/blob/0a9c776fb31788d5e691268b8f160d6ea7b34c30/logos/godot.png" height="50"/>
+  <img src="https://github.com/Thomas-Raveneau/Thomas-Raveneau/blob/0a9c776fb31788d5e691268b8f160d6ea7b34c30/logos/c.svg" height="50"/>
+  <img src="https://github.com/Thomas-Raveneau/Thomas-Raveneau/blob/0a9c776fb31788d5e691268b8f160d6ea7b34c30/logos/cpp.svg" height="50"/>
+  <img src="https://github.com/Thomas-Raveneau/Thomas-Raveneau/blob/0a9c776fb31788d5e691268b8f160d6ea7b34c30/logos/c%23svg.svg" height="50"/>
 </div>
