@@ -7,6 +7,12 @@ I'm an Epitech student, passionate about video games since my childhood.
 - 👯 I’m looking to collaborate on video games projects
 - 🌱 I’m currently learning about game design and computer graphics
 
+## Links
+
+- Portfolio:    https://thomas-raveneau.com/
+- Linkedin:     https://www.linkedin.com/in/thomas-raveneau/
+- Best project: https://github.com/Thomas-Raveneau/Quake/
+
 ## Skills
 
 <div style="display: flex">
