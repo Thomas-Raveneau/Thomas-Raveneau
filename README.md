@@ -1,15 +1,13 @@
 ## Hi there, I'm Thomas 👋
 
-I'm an Epitech student, passionate about video games since my childhood.
+I'm passionate about video games since my childhood.
 
 - 👀 I’m interested in software and game development
-- 🔭 I’m currently working on a remake of Quake with Unreal Engine
 - 🤝 I’m looking to collaborate on video games projects
-- 🌱 I’m currently learning about game design and computer graphics
+- 🌱 I’m currently learning about game design
 
 ##  Links 🌐
 
-- Portfolio:    https://thomas-raveneau.com/
 - Linkedin:     https://www.linkedin.com/in/thomas-raveneau/
 - Best project: https://github.com/Thomas-Raveneau/Quake/
 
